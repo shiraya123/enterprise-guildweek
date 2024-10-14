@@ -1,0 +1,16 @@
+{
+  "name": "sitemap",
+  "version": "1.0.0",
+  "description": "Measuring sitemaps of Notified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^23.5.1",
+    "xml2js": "^0.6.2"
+  }
+}
